@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/ashishk020202)](https://twitter.com/ashishk020202)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashishgupta020202.com)](mailto:ashishgupta020202@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ashish020202)](https://github.com/ashish020202)
-[![linkedin Badge](https://img.shields.io/badge/-linkedin-232323?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/ashish020202)](https://github.com/ashish020202)
+[![linkedin Badge](https://img.shields.io/badge/-linkedin-232323?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/ashish020202)](https://linkedin.com/in/ashish020202)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashish020202)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ashish020202&show_icons=true&hide_border=true">
