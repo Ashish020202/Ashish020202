@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-232323?style=flat-square&logo=linkedin&logoColor=blue&link=https://linkedin.com/in/ashish020202)](https://linkedin.com/in/ashish020202)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ashish020202)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ashish020202&show_icons=true&hide_border=true">
+
 
 ## 🧐 About
 
