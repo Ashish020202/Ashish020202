@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 🧐 About
 
-- 📫 How to reach me: ashishgupta020202@gmail.com
+- 📫 Email: ashishgupta020202@gmail.com
 - 🌱 Languages and Tools: 
 
     <div>
