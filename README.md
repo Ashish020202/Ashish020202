@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# 𝗛𝗲𝗹𝗹𝗼！ 
 
 
 𝗜'𝗺 [Ashish](https://github.com/ashish020202)！𝗜'𝗺 a Developer 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼ut 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
