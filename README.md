@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Ashish020202/Ashish020202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
