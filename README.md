@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 𝗛𝗲𝗹𝗹𝗼！ 
+# 𝗛𝗲𝗹𝗹𝗼！  
 
 
 𝗜'𝗺 [Ashish](https://github.com/ashish020202)！𝗜'𝗺 a Developer 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼ut 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲. 
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
          <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">docker</code>
            <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
   
-        
     </div>
 
 
