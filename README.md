@@ -54,4 +54,4 @@ Here are some ideas to get you started:
     </div>
 
 
-⭐️ From [Ashish](https://github.com/ashish020202)
+(https://github.com/ashish020202)
