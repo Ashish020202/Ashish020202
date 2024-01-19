@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 𝗛𝗲𝗹𝗹𝗼！  
 
 
-𝗜'𝗺 [Ashish](https://github.com/ashish020202)！ A full stack Developer 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼ut 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲. 
+𝗜'𝗺 [Ashish](https://github.com/ashish020202)！ Developer 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼ut 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲. 
 
  Open to Collaborate and Contribute.
 
